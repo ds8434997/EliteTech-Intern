@@ -1,0 +1,12 @@
+[submodule "Interactive-quiz"]
+	path = Interactive-quiz
+	url = https://github.com/ds8434997/Interactive-quiz.git
+[submodule "Portofolio-page"]
+	path = Portofolio-page
+	url = https://github.com/ds8434997/Portofolio-page.git
+[submodule "E-learning-platform"]
+	path = E-learning-platform
+	url = https://github.com/ds8434997/E-learning-platform.git
+[submodule "Real-time-chat-app"]
+	path = Real-time-chat-app
+	url = https://github.com/ds8434997/Real-time-chat-app.git
